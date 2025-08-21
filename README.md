@@ -13,4 +13,4 @@ VIEW FIGMA - https://www.figma.com/proto/WlQpsqoeiWSISofgrbC797/Untitled?node-id
 - User Flow Optimization
 
 
-** Created by Priya Jana - Future Interns
+** Created by Priya Jana - Future Interns Internship **
