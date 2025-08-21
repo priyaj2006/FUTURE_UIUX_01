@@ -11,3 +11,6 @@ VIEW FIGMA - https://www.figma.com/proto/WlQpsqoeiWSISofgrbC797/Untitled?node-id
 - UI Component Design
 - Layout Planning
 - User Flow Optimization
+
+
+** Created by Priya Jana - Future Interns
